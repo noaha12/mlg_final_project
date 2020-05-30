@@ -5,7 +5,7 @@ Actually, this is my first-ever project here on Github, and also my first try at
 #
 This project will consist of two parts: in the first part, I will describe the dataset and answer 5 questions/hypotheses about the data. 
 #
-In the second part, I will use some simple machine learning techniques to build a classification model.
+In the second part, I will use some simple machine learning techniques to build a classification or regression model.
 #
 I hope you enjoy it!
 #
